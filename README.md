@@ -377,12 +377,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - **BART** — Facebook AI Research (Lewis et al., ACL 2020)
 - **TextRank** — Mihalcea & Tarau, EMNLP 2004
 
----
 
-<div align="center">
 
-Made with ❤️ for the Indian Legal NLP community
 
-⭐ Star this repo if it helped you!
-
-</div>
