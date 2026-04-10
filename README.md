@@ -364,18 +364,7 @@ Also cite the ILDC dataset:
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgements
-
-- **ILDC Dataset** — Malik et al., ACL 2021
-- **InLegalBERT** — law-ai research group
-- **BART** — Facebook AI Research (Lewis et al., ACL 2020)
-- **TextRank** — Mihalcea & Tarau, EMNLP 2004
 
 
 
