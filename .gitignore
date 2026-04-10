@@ -1,0 +1,10 @@
+.venv/
+venv
+__pycache__
+models/
+outputs/
+__pycache__/
+*.log
+data/raw/
+data/processed/
+pdfs/
